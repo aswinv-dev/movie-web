@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Venom",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b4d6e0f-04fe-49ac-a8c8-ca6e8024a16f/deq0c4k-151a0009-74da-4d6d-8909-8401ecddbb35.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiNGQ2ZTBmLTA0ZmUtNDlhYy1hOGM4LWNhNmU4MDI0YTE2ZlwvZGVxMGM0ay0xNTFhMDAwOS03NGRhLTRkNmQtODkwOS04NDAxZWNkZGJiMzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5rMt7y_AtlmCwvLFyOSW2UqvHa8cyadWYbFm357hEfw",
+    "releaseDate": "2022-04-06",
+    "rating": 4.5,
+    "genre": "scifi",
+    "cast": ["Tom Hardy", "Riz Ahmed"]
+  },
+  {
+    "name": "Spider Man",
+    "image": "https://pbs.twimg.com/media/FEP_b6MVgAANu5M.jpg",
+    "releaseDate": "2022-04-06",
+    "rating": 5,
+    "genre": "Superhero",
+    "cast": ["Tom Holland", "Cumberbatch"]
+  },
+  {
+    "name": "Batman",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg",
+    "releaseDate": "2022-04-06",
+    "rating": 3,
+    "genre": "SuperHero",
+    "cast": ["Robert Pattinson", "Paul Dano", "Colin Farrell"]
+  }
+]

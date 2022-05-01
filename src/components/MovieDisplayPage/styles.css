@@ -1,0 +1,5 @@
+.container-grid {
+  display: flex;
+  grid-template-columns: repeat(2, 300px);
+  grid-gap: 10px;
+}
